@@ -1,0 +1,11 @@
+{
+  "org": "optonaut",
+  "repo": "ActiveLabel.swift",
+  "versions": [
+    {
+      "commit": "36949c1a69ef8b40574da20c9e24b115f387b1cf",
+      "tag": "1.1.5",
+      "parsed_at": "2026-11-09T23:06:31.839890+00:00"
+    }
+  ]
+}
