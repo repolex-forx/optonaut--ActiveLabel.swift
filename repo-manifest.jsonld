@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/optonaut/ActiveLabel.swift/commit/36949c1a69ef8b40574da20c9e24b115f387b1cf",
       "git:hexsha": "36949c1a69ef8b40574da20c9e24b115f387b1cf",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.1.5"
     },
     {
