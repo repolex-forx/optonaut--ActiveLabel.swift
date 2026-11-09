@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/optonaut/ActiveLabel.swift/commit/36949c1a69ef8b40574da20c9e24b115f387b1cf",
       "git:hexsha": "36949c1a69ef8b40574da20c9e24b115f387b1cf",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.1.5"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.1.5",
+      "repolex:parsedAt": "2026-11-09T23:06:31.839314+00:00"
     },
     {
       "@id": "https://repolex.ai/r/optonaut/ActiveLabel.swift/commit/8dd516ebdbad0ff1723b3f41c9c9fe396d96a3d2",
